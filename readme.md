@@ -1,0 +1,1 @@
+A csv and script to generate a Waldorf Iridium midi map file and a matching Squarp Hapax instrument definition
